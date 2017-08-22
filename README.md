@@ -1,7 +1,6 @@
 # Data Visualization
-# data-visualization
-A repo for some cool data visualizations
-# Single Page Apps for GitHub Pages
+
+  A repo for some cool data visualizations
 
 ## About
 
