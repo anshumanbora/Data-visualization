@@ -21,7 +21,7 @@ class AllSpells extends Component{
         return(
             <div>
                 <div className="row">
-                    <div className="col-md-7">
+                    <div className="col-md-8">
                         <svg  viewBox="0 50 700 600" width={700} height={600}>
                             <VictoryChart
                                 width={700}
@@ -54,13 +54,13 @@ class AllSpells extends Component{
 
 
                     </div>
-                    <div className="col-md-5">
+                    <div className="col-md-4">
                         <div className="title">
                             MOST FREQUENTLY USED SPELLS
                              IN THE EIGHT HARRY POTTER MOVIES
                         </div>
                         <div className="description">
-                            Horixontal axis shows the count of spells
+                            Horixontal axis shows the count of spells.
                         </div>
 
                     </div>
